@@ -1,2 +1,19 @@
+* {
+  background-color: #fffaf1;
+  margin: 32px;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+button {
+  border: 3px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+#messages {
+  font-size: 20px;
+  font-weight: 600;
+  color: darkred;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFNQTtFQUNJLHlCQVB5QjtFQVF6QixZQUxZO0FDQWhCOztBRFFBO0VBQ0ksdUJBUnVCO0VBU3ZCLG1CQUFtQjtFQUNuQixlQUFlO0VBQ2YsdUJBZGlCO0VBZWpCLFlBQVk7QUNMaEI7O0FEUUE7RUFDSSxlQUFlO0VBQ2YsZ0JBQWdCO0VBQ2hCLGNBcEJnQjtBQ2VwQiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */

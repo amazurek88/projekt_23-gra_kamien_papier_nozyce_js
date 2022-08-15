@@ -1,0 +1,24 @@
+$newColor: rgb(255, 250, 241);
+$newBackground: black;
+$lightColor: darkred;
+$newMargin: 32px;
+$newBorder: 3px solid black;
+
+* {
+    background-color: $newColor;
+    margin: $newMargin;
+}
+
+button {
+    border: $newBorder;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: $newBackground;
+    color: white;
+}
+
+#messages {
+    font-size: 20px;
+    font-weight: 600;
+    color: $lightColor;
+}
